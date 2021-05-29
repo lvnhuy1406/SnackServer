@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "616753996427",
+    "firebase_url": "https://appfood-doan-default-rtdb.firebaseio.com",
+    "project_id": "appfood-doan",
+    "storage_bucket": "appfood-doan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616753996427:android:76be40439caa3e8200aa8e",
+        "android_client_info": {
+          "package_name": "com.vku.snackserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616753996427-cdvftfon5gkiq6o6uiu6qh46qj44gks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfcF4vI15hnR8tp5aPce8BM9ry3C1mGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616753996427-cdvftfon5gkiq6o6uiu6qh46qj44gks7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616753996427:android:077be49c77c422d300aa8e",
+        "android_client_info": {
+          "package_name": "com.vku.snacksnack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616753996427-cdvftfon5gkiq6o6uiu6qh46qj44gks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfcF4vI15hnR8tp5aPce8BM9ry3C1mGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616753996427-cdvftfon5gkiq6o6uiu6qh46qj44gks7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
